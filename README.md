@@ -133,26 +133,26 @@ esta lista é um resumo público focado em ferramentas que importam para minhas 
 - `wlan0` — wireless interface (active).  
 - `rmnet_*` / `rmnet_ipa0` — mobile data interfaces (present & in use).  
 - `lo` — loopback.
-> ➜  a fastfetch (at 2025-10-02 11:50:28 UTC/ZULU)
-         -o          o-             u0_a117@localhost
-          +hydNNNNdyh+              -----------------
-        +mMMMMMMMMMMMMm+            OS: Android REL 15 aarch64
-      `dMMm:NMMMMMMN:mMMd`          Host: motorola moto g34 5G
-      hMMMMMMMMMMMMMMMMMMh          Kernel: Linux 5.4.284-moto-15018-g1dec0eb1d3de
-  ..  yyyyyyyyyyyyyyyyyyyy  ..      Uptime: 22 hours, 59 mins
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.    Packages: 226 (dpkg)
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Shell: zsh 5.9
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    WM: WindowManager (SurfaceFlinger)
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Terminal: Termux 0.119.0-beta.3
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Terminal Font: monospace
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-    CPU: 2 x Qualcomm Snapdragon 6s Gen 3 [SM6375] (8) @ 2.21 GHz
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+     GPU: Mesa llvmpipe (LLVM 20.1.8, 128 bits)
-      mMMMMMMMMMMMMMMMMMMm          Memory: 2.80 GiB / 3.39 GiB (82%)
-      `/++MMMMh++hMMMM++/`          Swap: 1.38 GiB / 6.78 GiB (20%)
-          MMMMo  oMMMM              Disk (/): 656.35 MiB / 656.35 MiB (100%) - erofs [Read-only]
-          MMMMo  oMMMM              Disk (/storage/emulated): 41.93 GiB / 111.19 GiB (38%) - fuse
-          oNMm-  -mMNs              Local IP (rmnet_data1): 10.104.133.9/30
-                                    Local IP (wlan0): 192.168.15.90/24 *
-                                    Locale: en_US.UTF-8
-
-
+> fastfetch (at 2025-10-02 11:53:22 UTC/ZULU)
+➜  a date && fastfetch -l none
+Thu Oct  2 08:53:22 -03 2025
+u0_a117@localhost
+-----------------
+OS: Android REL 15 aarch64
+Host: motorola moto g34 5G
+Kernel: Linux 5.4.284-moto-15018-g1dec0eb1d3de
+Uptime: 23 hours, 1 min
+Packages: 226 (dpkg)
+Shell: zsh 5.9
+WM: WindowManager (SurfaceFlinger)
+Terminal: Termux 0.119.0-beta.3
+Terminal Font: monospace
+CPU: 2 x Qualcomm Snapdragon 6s Gen 3 [SM6375] (8) @ 2.21 GHz
+GPU: Mesa llvmpipe (LLVM 20.1.8, 128 bits)
+Memory: 2.80 GiB / 3.39 GiB (82%)
+Swap: 1.38 GiB / 6.78 GiB (20%)
+Disk (/): 656.35 MiB / 656.35 MiB (100%) - erofs [Read-only]
+Disk (/storage/emulated): 41.93 GiB / 111.19 GiB (38%) - fuse
+Local IP (rmnet_data1): 10.104.133.9/30
+Local IP (wlan0): 192.168.15.90/24 *
+Locale: en_US.UTF-8

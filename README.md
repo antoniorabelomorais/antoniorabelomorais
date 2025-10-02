@@ -103,3 +103,36 @@ Here are some ideas to get you started:
 ---
 
 ⭐ Hope you find something useful here.
+
+---
+
+## Meu Setup / My stack
+
+**Tools/Ferramentas:**
+- `Git` — version control.  
+- `android-tools` (adb/fastboot), Android NDK pieces.  
+- `Kotlin` + `Gradle` — primary language & build system for Android projects.  
+- `OpenJDK (11/17/21)` — Java runtimes for builds and tooling.  
+- `Node.js` — frontend/build scripts and small tools.  
+- `Python` (pip) — scripting / automation.  
+- `VS Code (code-oss)` — editor.  
+- `Zsh` — shell of choice + completions.  
+- `Magisk` — Root Utility
+- `Termux` utilities — on-device experimentation environment.
+
+**Note/Nota:** this list is a curated public snapshot — focused on tools that matter for my Android / Linux experiments and dev workflow./
+esta lista é um resumo público focado em ferramentas que importam para minhas experiências e fluxo du trabalho como dev.
+
+---
+
+## System snapshot (sanitized)/Resumo do Sistema
+
+**Kernel:** `Linux localhost 5.4.284-moto-15018-g1dec0eb1d3de #1 SMP PREEMPT Wed Jun 18 12:08:33 CDT 2025 aarch64 Android`
+
+**Network (high level)/Rede:**
+- `wlan0` — wireless interface (active).  
+- `rmnet_*` / `rmnet_ipa0` — mobile data interfaces (present & in use).  
+- `lo` — loopback.
+> Sensitive details removed: local IPv4, MACs, gateway and any personal network identifiers.
+
+---

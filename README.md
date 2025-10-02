@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 
 ### 🖥️ Utilities / Ferramentas
 - [corexplorer](https://github.com/antoniorabelomorais/corexplorer) – cleans the screen.
-- [auto](https://github.com/antoniorabelomorais/auto) – quick automation experiments.  
 
 ### 📚 Education / Educação (SENAI Santos)
 - [sistemasoperacionais](https://github.com/antoniorabelomorais/sistemasoperacionais)  

@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 > Cyclist
 > This space works as my **living portfolio**
 ---
-
 ## 🇺🇸🇨🇦 About me
 - 🎓 Technical degree in **Administration** from **ETEC Dona Escolástica Rosa** (Santos, Brazil).  
 - 📚 Current student at **SENAI Santos**, focusing on software development and systems.  
@@ -36,6 +35,14 @@ Here are some ideas to get you started:
 - **Linux Experiments** – scripts, tunings and system explorations.  
 - **Educational projects** – repositories documenting my learning journey.  
 - **Creative exploration** – small utilities, prototypes, and experiments.  
+
+
+## 🧭
+
+🇺🇸🇨🇦 This profile is my **open lab**:  
+- Not everything is polished...
+- Some repositories are ready-to-use tools, others are just experiments.  
+- The mess is intentional: it’s the record of a constant learning journey.  
 
 ---
 
@@ -52,6 +59,13 @@ Here are some ideas to get you started:
 - **Experimentos em Linux** – scripts, tunings e testes de sistema.  
 - **Projetos educacionais** – repositórios que documentam minha jornada de aprendizado.  
 - **Exploração criativa** – utilitários pequenos, protótipos e experimentos.  
+
+## 🧭
+
+🇧🇷 Este perfil é meu **laboratório aberto**:  
+- Nem tudo é polido...
+- Alguns repositórios são utilitários prontos, outros apenas experimentos.  
+- A bagunça é proposital: registro de um caminho de aprendizado constante.  
 
 ---
 
@@ -85,20 +99,6 @@ Here are some ideas to get you started:
 ## 📊 Stats / Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniorabelomorais&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniorabelomorais&layout=compact&theme=radical)  
-
----
-
-## 🧭
-
-🇺🇸🇨🇦 This profile is my **open lab**:  
-- Not everything is polished...
-- Some repositories are ready-to-use tools, others are just experiments.  
-- The mess is intentional: it’s the record of a constant learning journey.  
-
-🇧🇷 Este perfil é meu **laboratório aberto**:  
-- Nem tudo é polido...
-- Alguns repositórios são utilitários prontos, outros apenas experimentos.  
-- A bagunça é proposital: registro de um caminho de aprendizado constante.  
 
 ---
 

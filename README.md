@@ -134,7 +134,7 @@ esta lista é um resumo público focado em ferramentas que importam para minhas 
 - `rmnet_*` / `rmnet_ipa0` — mobile data interfaces (present & in use).  
 - `lo` — loopback.
 
-> fastfetch (at 2025-10-02 11:53:22 UTC/ZULU)
+### fastfetch (at 2025-10-02 11:53:22 UTC/ZULU)
 
 ➜  a date && fastfetch -l none
 Thu Oct  2 08:53:22 -03 2025

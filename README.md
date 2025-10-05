@@ -91,8 +91,9 @@ Here are some ideas to get you started:
 - [eventsystem](https://github.com/antoniorabelomorais/eventsystem)  
 - [accesscontrol](https://github.com/antoniorabelomorais/accesscontrol)  
 - [gerador-conselhos-diarios](https://github.com/antoniorabelomorais/gerador-conselhos-diarios)  
-- [my-1st-git-project](https://github.com/antoniorabelomorais/my-1st-git-project)  
+- [my-1st-git-project](https://github.com/antoniorabelomorais/my-1st-git-project)
 
+and more repositories
 
 - [more](https://github.com/antoniorabelomorais?tab=repositories)
 ---

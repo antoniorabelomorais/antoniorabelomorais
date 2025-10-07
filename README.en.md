@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Antonio Rabelo Morais (a.k.a. jarm)
 
-[🇺🇸🇨🇦 English](#-about-me) | [🇧🇷 Brasileiro](#-sobre-mim)
-
 > Software developer, systems explorer, and incurable tinkerer.
 > Cyclist
 > This space works as my **living portfolio**
@@ -52,28 +50,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 🇧🇷 Sobre mim
-- 🎓 Formado Técnico em **Administração** pela **ETEC Dona Escolástica Rosa** (Santos/SP).  
-- 📚 Estudante no **SENAI Santos**, focado em desenvolvimento de software e sistemas.  
-- 🏫 Ensino Fundamental e Médio realizados integralmente em escolas públicas do Brasil.  
-- 🔬 Currículo Lattes: [CNPq 5163563743904644](http://lattes.cnpq.br/5163563743904644)  
-- 🌐 Dominio: [jarm.com.br](http://jarm.com.br)  
-- ✉️ Endereço Eletrônico: antoniorm@jarm.com.br  
-
 ### 🚀
 - **Android & Módulos Magisk** – exploração de baixo nível do sistema.  
 - **Experimentos em Linux** – scripts, tunings e testes de sistema.  
 - **Projetos educacionais** – repositórios que documentam minha jornada de aprendizado.  
 - **Exploração criativa** – utilitários pequenos, protótipos e experimentos.  
-
-## 🧭
-
-🇧🇷 Este perfil é meu **laboratório aberto**:  
-- Nem tudo é polido...
-- Alguns repositórios são utilitários prontos, outros apenas experimentos.  
-- A bagunça é proposital: registro de um caminho de aprendizado constante.  
-
----
 
 ## 📂
 
@@ -87,10 +68,10 @@ Here are some ideas to get you started:
 - [zram2xdroid](https://github.com/antoniorabelomorais/zram2xdroid) – doubles zram based on physical RAM.  
 - [bootracer](https://github.com/antoniorabelomorais/bootracer) – disables modules when bootloop is detected.  
 
-### 🖥️ Utilities / Ferramentas
+### 🖥️ Utilities
 - [corexplorer](https://github.com/antoniorabelomorais/corexplorer) – cleans the screen.
 
-### 📚 Education / Educação (SENAI Santos)
+### 📚 Education
 - [sistemasoperacionais](https://github.com/antoniorabelomorais/sistemasoperacionais)  
 - [algodev](https://github.com/antoniorabelomorais/algodev)  
 - [counthings](https://github.com/antoniorabelomorais/counthings)  
@@ -101,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Stats / Estatísticas
+## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniorabelomorais&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniorabelomorais&layout=compact&theme=radical)  
 
@@ -111,9 +92,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Meu Setup / My stack
+## My stack
 
-**Tools/Ferramentas:**
+**Tools:**
 - `Git` ?? version control.  
 - `android-tools` (adb/fastboot), Android NDK pieces.  
 - `Kotlin` + `Gradle` ?? primary language & build system for Android projects.  
@@ -125,16 +106,16 @@ Here are some ideas to get you started:
 - `Magisk` ?? Root Utility
 - `Termux` utilities ?? on-device experimentation environment.
 
-**Note/Nota:** this list is a curated public snapshot ?? focused on tools that matter for my Android / Linux experiments and dev workflow./
+**Note:** this list is a curated public snapshot ?? focused on tools that matter for my Android / Linux experiments and dev workflow./
 esta lista 챕 um resumo p첬blico focado em ferramentas que importam para minhas experi챗ncias e fluxo du trabalho como dev.
 
 ---
 
-## System snapshot (sanitized)/Resumo do Sistema
+## System snapshot (sanitized)
 
 **Kernel:** `Linux localhost 5.4.284-moto-15018-g1dec0eb1d3de #1 SMP PREEMPT Wed Jun 18 12:08:33 CDT 2025 aarch64 Android`
 
-**Network (high level)/Rede:**
+**Network (high level):**
 - `wlan0` ?? wireless interface (active).  
 - `rmnet_*` / `rmnet_ipa0` ?? mobile data interfaces (present & in use).  
 - `lo` ?? loopback.
